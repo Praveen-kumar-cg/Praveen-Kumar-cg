@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">from Jalore Rajasthan and Btech cse student at CodingGita</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumagcg&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumagcg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-kumar-cg&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-kumar-cg" /> </p>
 
 - 🌱 I’m currently learning **GitHub ,Git ,Python, HTML ,**
 
