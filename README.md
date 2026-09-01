@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">Btech cse AI student at CodingGita</h3>
+<h3 align="center">B.Tech CSE AI Student at CodingGita</h3>
  <div align="left" width="150">
   ----- <a href="#"><img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="40" /></a> -----
 </div>
