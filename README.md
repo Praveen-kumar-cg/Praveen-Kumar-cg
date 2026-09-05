@@ -32,13 +32,11 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=praveen-kumar-cg&show_icons=true&theme=dark&count_private=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=praveen-kumar-cg&show_icons=true&theme=dark&cache_seconds=1800" />
 </p>
 
 <h2 align="center">🔥 My GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-kumar-cg&theme=github-compact&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-kumar-cg&theme=github-compact&hide_border=true" width="100%" />
 </p>
