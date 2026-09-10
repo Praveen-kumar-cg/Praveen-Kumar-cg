@@ -16,7 +16,7 @@
 
 ## 🧠 `whoami`
 
-python
+```python
 class Praveen:
 
     name = "Praveen Kumar"
@@ -36,7 +36,7 @@ class Praveen:
     ]
 
     motto = "Build. Learn. Repeat. 🚀"
-
+```
 
 ---
 
