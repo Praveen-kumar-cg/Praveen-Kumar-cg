@@ -1,42 +1,171 @@
-<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">B.Tech CSE AI Student at CodingGita</h3>
- <div align="left" width="150">
-  ----- <a href="#"><img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="40" /></a> -----
+<div align="center">
+
+# ⚡ PRAVEEN KUMAR ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80;Python+%7C+Web+Development+%7C+AI;Code.+Build.+Break.+Fix.+Repeat.+%E2%9A%A1" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00FF9C&height=120&section=header"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/praveen-kumar-0670b5417/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-00FF9C?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/praveen_kumar2404/)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/praveen-kumar-cg)
+
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=praveen-kumar-cg&label=Profile%20views&color=0e75b6&style=flat" />
+---
 
-- 🌱 I’m currently learning **GitHub ,Git ,Python, HTML ,CSS **
+## 🧠 `whoami`
 
-- 💬 Ask me about **Strong interest in computer science, and learn about Computer Component**
+python
+class Praveen:
 
-- 📫 How to reach me **praveen.bishnoi.cg@gmail.com**
+    name = "Praveen Kumar"
+    role = "CSE Student"
 
-- ⚡ Fun fact **I think i am easy to understand to all**
+    interests = [
+        "Software Development",
+        "Web Development",
+        "Artificial Intelligence",
+        "Problem Solving"
+    ]
 
-<br>
-<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/praveen kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/praveen_bishnoi.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praveen_bishnoi.45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/praveen_kuamar2404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveen_kuamar2404" height="30" width="40" /></a>
-</p>
-<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    currently_learning = [
+        "Python",
+        "JavaScript",
+        "Git & GitHub"
+    ]
 
-<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+    motto = "Build. Learn. Repeat. 🚀"
 
 
-<h2 align="center">📊 My GitHub Stats</h2>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen-kumar-cg&show_icons=true&theme=dark&cache_seconds=1800" />
-</p>
+## ⚡ CODING MODE: ON
 
-<h2 align="center">🔥 My GitHub Contributions</h2>
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   > booting developer.exe...                            │
+│   > loading skills................................ OK   │
+│   > initializing creativity......................... OK │
+│   > searching for bugs.............................. OK │
+│   > fixing bugs..................................... ???│
+│                                                         │
+│   STATUS: ALWAYS LEARNING ⚡                            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-kumar-cg&theme=github-compact&hide_border=true" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
+</div>
+
+---
+
+## 🛠️ TECH ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 🚀 CURRENT MISSIONS
+
+| 🚀 Project                  | 🎯 Status     |
+| --------------------------- | ------------- |
+| 🎟️ Event Management System | 🔥 Building   |
+| 🌐 Web Development Projects | 🟢 Active     |
+| 🐍 Python Projects          | 🟢 Learning   |
+| 🤖 AI Exploration           | 🟡 Exploring  |
+| 💻 DSA / LeetCode           | 🟢 Practicing |
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=praveen-kumar-cg&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-kumar-cg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF9C&text_color=FFFFFF" height="180"/>
+
+</div>
+
+---
+
+## 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=praveen-kumar-cg&theme=black-ice&hide_border=true&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=praveen-kumar-cg&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/praveen-kumar-cg/praveen-kumar-cg/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🧩 LEETCODE
+
+<div align="center">
+
+<a href="https://leetcode.com/u/praveen_kumar2404/">
+
+<img src="https://leetcard.jacoblin.cool/praveen_kumar2404?theme=dark&font=Karma&ext=heatmap" width="500"/>
+
+</a>
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/praveen-kumar-0670b5417/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://leetcode.com/u/praveen_kumar2404/">
+<img src="https://img.shields.io/badge/LEETCODE-00FF9C?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/praveen-kumar-cg">
+<img src="https://img.shields.io/badge/GITHUB-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ `CODE • LEARN • BUILD • REPEAT` ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:111111,100:000000&height=100&section=footer"/>
+
+</div>
