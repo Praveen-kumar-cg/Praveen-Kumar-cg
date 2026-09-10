@@ -25,6 +25,10 @@ jobs:
           dark_mode: "true"
           top_repos_count: "5"
 
+      - name: Fix File Permissions
+        run: |
+          sudo chown -R $USER:$USER $GITHUB_WORKSPACE
+
       - name: Commit Changes
         run: |
           git config --global user.name "github-actions[bot]"
@@ -32,6 +36,6 @@ jobs:
 
           git add stats/
 
-          git diff --cached --quiet || git commit -m "Update language statistics"
+          git diff --cached --quiet || git commit -m "📊 Update language statistics"
 
           git push
