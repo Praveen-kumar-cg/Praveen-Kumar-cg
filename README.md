@@ -49,3 +49,14 @@
 <br><br>
 
 </div>
+
+<div align="center">
+
+# 💻⚡ MOST USED LANGUAGES ⚡💻
+
+### 🚀 MY CODING LANGUAGE ANALYTICS 🚀
+
+<br>
+
+<img src="./stats/leaderboard_by_weighted.png" alt="My Coding Language Statistics" />
+</div>
