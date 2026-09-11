@@ -1,6 +1,8 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline; z-index: 999; position: relative;">
 <div align="center">
 
-# ⚡👑 PRAVEEN KUMAR 👑⚡
+<img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=600&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+PRAVEEN+KUMAR+😊" alt="Ujjwal Hii" />
 
 ### ✨ COMPUTER SCIENCE STUDENT ✨
 
