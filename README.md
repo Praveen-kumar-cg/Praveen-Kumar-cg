@@ -60,15 +60,9 @@
 
 <br>
 
-<img src="./stats/leaderboard_by_repos.png" alt="My Coding Language Statistics" />
+
 </div>
-<!--<details>	
- <summary><b>Github Chart</b></summary><br>
 
-
-
-</details>-->
- <!-- languages graph -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveen-kumar-cg&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
   <div align="center">
   <img alt="Praveen Github Chart" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-kumar-cg&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
