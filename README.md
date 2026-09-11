@@ -25,6 +25,11 @@
 <br clear="both">
 
 ---
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/praveen-kumar-cg/praveen-kumar-cg/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+</div>
 
 
 
@@ -130,13 +135,8 @@
 
 
 
-# 🐍⚡ WATCH MY CONTRIBUTIONS ⚡🐍
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/praveen-kumar-cg/praveen-kumar-cg/output/github-contribution-grid-snake.svg" alt="Snake animation">
-
-</div>
 
 ---
 
