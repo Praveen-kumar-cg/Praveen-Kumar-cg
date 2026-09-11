@@ -128,25 +128,7 @@
 
 ---
 
-# 🏆⚡ GITHUB ACHIEVEMENTS ⚡🏆
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praveen-kumar-cg&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
-# 📈⚡ CONTRIBUTION ACTIVITY ⚡📈
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-kumar-cg&theme=redical&hide_border=true&area=true" width="95%">
-
-</div>
-
----
 
 # 🐍⚡ WATCH MY CONTRIBUTIONS ⚡🐍
 
