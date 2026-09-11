@@ -63,12 +63,17 @@
 
 </div>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveen-kumar-cg&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
-  <div align="center">
-  <img alt="Praveen Github Chart" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-kumar-cg&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
-</div>
- <!-- Profile Summary -->
-  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen-kumar-cg&theme=radical" alt="Profile Summary">
-  <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MastanSayyad?cardType=level&theme=radical" alt="GitHub Stats"/>
-<br>
-<img width="400em" height="676" alt="Screenshot 2026-03-22 015306" src="https://github.com/user-attachments/assets/ea8898e5-e1a1-4080-82ff-a28bf3253683" />
+ ## 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen-kumar-cg&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveen-kumar-cg&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveen-kumar-cg&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praveen-kumar-cg&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveen-kumar-cg&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Praveen-kumar-cg&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
+<img height="169em" src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=Praveen-kumar-cg&theme=radical">
+
+</div><br>
+
