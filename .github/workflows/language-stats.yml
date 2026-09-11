@@ -23,7 +23,7 @@ jobs:
           visualization_types: "leaderboard"
           output_path: "stats"
           dark_mode: "true"
-          top_repos_count: "5"
+          top_repos_count: "50"
 
       - name: Fix File Permissions
         run: |
