@@ -1,12 +1,20 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline; z-index: 999; position: relative;">
+<!-- ========================= -->
+
+<!-- ⚡ PREMIUM PROFILE HEADER ⚡ -->
+
+<!-- ========================= -->
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%">
+
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%">
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=600&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+PRAVEEN+KUMAR+😊" alt="Ujjwal Hii" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=700&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+PRAVEEN+KUMAR+😊" alt="Typing SVG" />
 
-### ✨ COMPUTER SCIENCE STUDENT ✨
+# ✨ COMPUTER SCIENCE STUDENT ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=⚡+WELCOME+TO+MY+CYBER+WORLD+⚡;💻+FUTURE+SOFTWARE+ENGINEER;🌐+WEB+DEVELOPER+IN+PROGRESS;🐍+PYTHON+LEARNER;🚀+BUILDING+THE+FUTURE+WITH+CODE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⚡+WELCOME+TO+MY+CYBER+WORLD+⚡;💻+FUTURE+SOFTWARE+ENGINEER;🌐+WEB+DEVELOPER+IN+PROGRESS;🐍+PYTHON+LEARNER;🚀+BUILDING+THE+FUTURE+WITH+CODE" />
 
 <br><br>
 
@@ -14,33 +22,37 @@
 
 </div>
 
+<br clear="both">
+
 ---
 
 
 
-<div align="center">
-  
-# ⚡ PROFILE
+# 💫 ABOUT ME
 
-<pre>
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║              👑 DEVELOPER DATABASE 👑                ║
-║                                                      ║
-║   👤 USER       : PRAVEEN KUMAR                      ║
-║   💻 ROLE       : FUTURE SOFTWARE ENGINEER           ║
-║   🟢 STATUS     : ONLINE                             ║
-║   🌐 FOCUS      : WEB DEVELOPMENT                    ║
-║   🐍 LEARNING   : PYTHON PROGRAMMING                 ║
-║   🎨 DESIGN     : UI/UX WITH FIGMA                   ║
-║   🚀 MISSION    : LEARN • BUILD • IMPROVE            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-  </pre>
-<div align="center">
-  
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🔭 Currently building my skills in **Web Development**
+
+🌱 Currently learning **Python Programming**
+
+💻 Exploring the world of **Software Development**
+
+🎨 Interested in **UI/UX Design using Figma**
+
+🚀 My goal is to become a **Professional Software Engineer**
+
+⚡ I believe in:
+
+> **Learn → Practice → Build → Improve → Repeat**
+
+<br clear="both">
+
+---
+
 # ⚡💛 TECHNOLOGY ARSENAL 💛⚡
-# ══════════════════════════════════════
+
+<div align="center">
 
 ### 🚀 MY DEVELOPMENT TOOLKIT 🚀
 
@@ -48,32 +60,182 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=dark" />
 
-<br><br>
-
 </div>
-
-<div align="center">
-
-# 💻⚡ MOST USED LANGUAGES ⚡💻
-
-### 🚀 MY CODING LANGUAGE ANALYTICS 🚀
 
 <br>
 
+---
 
-</div>
-
- ## 📊 GitHub Stats:
+# 💻⚡ PROGRAMMING & DEVELOPMENT ⚡💻
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen-kumar-cg&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveen-kumar-cg&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveen-kumar-cg&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praveen-kumar-cg&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveen-kumar-cg&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Praveen-kumar-cg&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
-<img height="169em" src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=Praveen-kumar-cg&theme=radical">
+| 🌐 Frontend |  🐍 Programming | 🛠️ Tools |    🎨 Design    |
+| :---------: | :-------------: | :-------: | :-------------: |
+|     HTML    |      Python     |    Git    |      Figma      |
+|     CSS     |  Learning More  |   GitHub  |      UI/UX      |
+|  JavaScript | Problem Solving |  VS Code  | Creative Design |
 
-</div><br>
+</div>
 
+---
+
+# 📊⚡ GITHUB ANALYTICS ⚡📊
+
+<div align="center">
+
+### 🚀 MY GITHUB JOURNEY IN NUMBERS 🚀
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen-kumar-cg&theme=radical" width="95%">
+
+<br><br>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praveen-kumar-cg&theme=radical">
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praveen-kumar-cg&theme=radical&utcOffset=5.5">
+
+</div>
+
+---
+
+# 💻🔥 MOST USED LANGUAGES 🔥💻
+
+<div align="center">
+
+### 📈 MY CODING LANGUAGE ANALYTICS 📈
+
+<br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praveen-kumar-cg&theme=radical">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveen-kumar-cg&theme=radical">
+
+</div>
+
+---
+
+# 📈⚡ GITHUB PERFORMANCE ⚡📈
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveen-kumar-cg&theme=radical&hide_border=false&hide=contribs,stars&show_icons=true&show=prs_merged,prs_merged_percentage">
+
+<img height="180em" src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=praveen-kumar-cg&theme=radical">
+
+</div>
+
+---
+
+# 🏆⚡ GITHUB ACHIEVEMENTS ⚡🏆
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Praveen-kumar-cg&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+
+</div>
+
+---
+
+# 📈⚡ CONTRIBUTION ACTIVITY ⚡📈
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-kumar-cg&theme=redical&hide_border=true&area=true" width="95%">
+
+</div>
+
+---
+
+# 🐍⚡ WATCH MY CONTRIBUTIONS ⚡🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/praveen-kumar-cg/praveen-kumar-cg/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+</div>
+
+---
+
+# 🎯⚡ CURRENT MISSION ⚡🎯
+
+<div align="center">
+
+```text
+🎯 MASTER WEB DEVELOPMENT
+        ↓
+🐍 IMPROVE PYTHON SKILLS
+        ↓
+🧠 PRACTICE PROBLEM SOLVING
+        ↓
+💻 BUILD AMAZING PROJECTS
+        ↓
+🚀 BECOME A SOFTWARE ENGINEER
+```
+
+</div>
+
+---
+
+
+
+<br><br>
+
+
+
+---
+
+# 🌟⚡ MY DEVELOPER QUOTE ⚡🌟
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
+</div>
+
+---
+
+# 🤝⚡ CONNECT WITH ME ⚡🤝
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/praveen-kumar-0670b5417/">
+<img src="https://img.shields.io/badge/LinkedIn-PRAVEEN%20KUMAR-FFD700?style=for-the-badge&logo=linkedin&logoColor=black">
+</a>
+
+<a href="https://leetcode.com/u/praveen_kumar2404/">
+<img src="https://img.shields.io/badge/LeetCode-praveen__kumar2404-FFD700?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="mailto:praveen.bishnoi.cg@gmail.com">
+<img src="https://img.shields.io/badge/Email-CONTACT%20ME-FFD700?style=for-the-badge&logo=gmail&logoColor=black">
+</a>
+
+</div>
+
+---
+
+# 💬⚡ LET'S BUILD THE FUTURE ⚡💬
+
+<div align="center">
+
+### 💻 Code • 🚀 Build • 🌱 Learn • 🔥 Improve
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+MY+PROFILE!+✨;KEEP+LEARNING+AND+KEEP+BUILDING!+🚀;THE+FUTURE+IS+BUILT+WITH+CODE+💻" />
+
+<br><br>
+
+### ⭐ If you like my profile, consider giving my repositories a star!
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=praveen-kumar-cg&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge">
+
+</div>
+
+<!-- ========================= -->
+
+<!-- ⚡ END OF PROFILE README ⚡ -->
+
+<!-- ========================= -->
