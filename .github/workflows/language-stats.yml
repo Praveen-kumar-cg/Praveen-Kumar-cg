@@ -25,6 +25,7 @@ jobs:
           exclude_languages: ""
           dark_mode: "true"
           top_repos_count: "50"
+          use_loc: "true"
 
       - name: Fix File Permissions
         run: |
