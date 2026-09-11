@@ -58,5 +58,5 @@
 
 <br>
 
-<img src="./stats/leaderboard_by_weighted.png" alt="My Coding Language Statistics" />
+<img src="./stats/leaderboard_by_repos.png" alt="My Coding Language Statistics" />
 </div>
